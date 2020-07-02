@@ -1,0 +1,3 @@
+rootProject.name='SelectItem'
+include ':app'
+include ':selectitemlib'
